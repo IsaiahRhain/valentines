@@ -49,11 +49,11 @@ export default function Home() {
         />
 
         <div className={`form absolute max-w-[800px] text-md p-10 ${mailSrc === 'mail_opened.png' ? '' : 'hidden'}`}>
-          <h4>Dear, Bonnie</h4>
+          <h4>Dear, Kesha</h4>
           <br />
           <h4>Will you be my valentine?</h4>
           <br />
-          <h4>Love, Avent</h4>
+          <h4>Love, Bodsie</h4>
           <div className='yesno'>
             <a 
               className='yes relative z-10'
