@@ -3,8 +3,8 @@ import "./globals.css";
 
 export const metadata = {
   title: "Valentines 2025",
-  description: "Bodsie sent you a letter!",
-  metadataBase: new URL('https://bodsie.com/valentines'),
+  description: "Avent sent you a letter!",
+  metadataBase: new URL('https://aventchiu.com/valentines'),
   openGraph: {
     images: 'heart.png'
   }
